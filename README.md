@@ -1,7 +1,3 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+This could be considered my first real solo project and I realise that I still have a lot to learn.
+It has a few mangas,animes and novels that i enjoyed along with my review for it for now
+plan to add other functions like search, edit, add etc but rn most of it is hardcoded and not very dynamic at all.
